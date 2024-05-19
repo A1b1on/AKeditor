@@ -135,6 +135,7 @@
     <ClInclude Include="Menu.h" />
     <ClInclude Include="Renderer.h" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="ret_code.h" />
     <ClInclude Include="Settings.h" />
     <ClInclude Include="StatusBar.h" />
     <ClInclude Include="targetver.h" />

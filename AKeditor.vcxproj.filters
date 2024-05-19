@@ -40,6 +40,9 @@
     <Filter Include="Исходные файлы\ToolBar">
       <UniqueIdentifier>{e653fa21-b6ef-4288-9177-5076cc934eb3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\Common">
+      <UniqueIdentifier>{a4fd358b-a62d-4d10-86d6-3513c1d9c775}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -80,6 +83,9 @@
     </ClInclude>
     <ClInclude Include="Window.h">
       <Filter>Исходные файлы\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="ret_code.h">
+      <Filter>Исходные файлы\Common</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

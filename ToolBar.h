@@ -1,5 +1,13 @@
 #pragma once
-class ToolBar
-{
-};
 
+#include "framework.h"
+
+class Toolbar {
+
+public:
+    Toolbar();
+    void Create(HWND hWnd);
+
+private:
+    HWND hToolbar;
+};
